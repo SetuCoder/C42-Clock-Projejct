@@ -1,5 +1,5 @@
 # Responsive Clock By Setu
 
-### Simple clock
+### Simple clock 
 
-*JS included in index.html*
+*JS script included in index.html*
